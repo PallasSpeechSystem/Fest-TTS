@@ -1,5 +1,5 @@
 # English Version of README
-English version of README is avaliable in [README_en.md](https://github.com/PallasSpeechSystem/Fest-TTS/README_en.md)
+English version of README is avaliable in [README_en.md](https://github.com/PallasSpeechSystem/Fest-TTS/blob/main/README_en.md)
 
 # O que é Fest-TTS?
 Fest-TTS é um MotorTTS (Text-To-Speech) que usar o software Festival Speech Synthesis System para síntese de fala em Português Brasileiro (futuramente suporte a outros idiomas). Usando FestVoz (kit de desenvolvimento para novas vozes) com algumas modificações de extração de (MCEP, F0, STR) para obter melhores resultados na síntese, a técnica de síntese usando Hidden Markov Model (HMM) ou Modelos Ocultos Markov. Sendo a técnica baseada em HMM é a mesma usanda no RHVoice e HTK.
